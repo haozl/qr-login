@@ -2,8 +2,6 @@
 ===============================
 [![Build Status](https://travis-ci.org/haozl/qr-login.svg)](https://travis-ci.org/haozl/qr-login)
 
-Example on how to configure and create a spring security custom login form with Java configuration
-
 
 ### 2. 运行方法
 ```shell
